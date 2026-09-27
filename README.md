@@ -60,3 +60,16 @@ DataPulse/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+## 📊 Dashboard Preview
+
+![DataPulse Dashboard](docs/dashboard.png)
+The DataPulse dashboard provides business metrics such as:
+
+- Total Orders
+- Total Revenue
+- Average Order Value
+- Total Customers
+- Monthly Orders
+- Sales analysis by category
+- Order status analysis
